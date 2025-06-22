@@ -16,7 +16,7 @@
 
 document.getElementById('btn-add-money').addEventListener('click', function(event){
     event.preventDefault();
-    console.log('add the event handler');
+    // console.log('add the event handler');
     
 
     // get money and the pin number
